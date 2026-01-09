@@ -110,17 +110,12 @@
 
 
  /* card section */
-.card-section {
-    justify-content:
-}
 .card-section-heading {
     width: 85%;
     max-width: 1360px;
     display: flex;
     margin: 20px 120px;
     flex-direction: column;
-    
-
 }
 
 
