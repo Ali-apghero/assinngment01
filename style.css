@@ -8,6 +8,7 @@
 /* btn hover */
 .btn:hover {
     background-color: darkgreen;
+    transition: 0.3s;
 }
    /*navigation bar */
 #top-nav {
@@ -46,6 +47,18 @@
     cursor: pointer;
 
 }
+
+/* card transitions */
+
+.card:hover {
+    background-color: rgba(9, 145, 70, 0.911);
+    cursor: pointer;
+    transition: 1s;
+    zoom: 1.3;
+
+}
+
+
 
  /*Hero section*/
 .hero-section {
@@ -174,4 +187,8 @@
     align-items: center;
     margin-bottom: 15px;
     
+}
+
+.img-description {
+    margin-bottom: 10px;
 }
