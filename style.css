@@ -192,3 +192,107 @@
 .img-description {
     margin-bottom: 10px;
 }
+
+/* The Solution Section */
+
+.section-div {
+    width: 85%;
+    max-width: 1360px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 120px;
+}
+
+.img-div img {
+    width: 600px;
+    height: 600px;
+    border: none;
+    border-radius: 12px;
+}
+
+.ditals-div {
+    width: 700px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+
+}
+
+.solution {
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 500;
+    color: #469165;
+}
+
+.second-brain {
+    font-size: 30px;
+    font-weight: bold;
+    color: #001931;
+
+}
+
+.personal-knowledge {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #627382;
+
+}
+.ul-list {
+   margin-left: 16px;
+   margin-bottom: 16px;
+   text-decoration: none;
+}
+
+.list-p {
+    margin-bottom: 16px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #001931;
+}
+
+  /* bottom section */
+
+.bottom-section {
+    width: 85%;
+    max-width: 1360px;
+    margin: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 80px 40px 80px 40px;
+    background-color: #F7F6F2;
+    border: none;
+    border-radius: 12px;
+    gap: 24px;
+}
+
+.top-div h1 {
+    font-size: 40px;
+    line-height: 100%;
+    font-weight: 700;
+    color: #001931;
+
+}
+
+.join {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #627382;
+}
+
+.bottom-p {
+    display: flex;
+    gap: 30px;
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 400;
+    color: #627382;
+}
+
